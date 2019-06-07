@@ -1,0 +1,20 @@
+//Items
+item.stonechunk.name=Stone Chunk
+
+
+//Blocks
+tile.compressed_obsidian.name=Compressed Obsidian
+tile.cracked_stone.name=Cracked Stone
+container.redstone_generator.name=Redstone Generator
+container.redstone_generator=Redstone Generator
+tile.redstone_generator.name=Redstone Generator
+
+//Tools
+
+
+//Armor
+
+
+//Item Group
+itemGroup.tabWillkosStuff=Willko's Wonderful World
+

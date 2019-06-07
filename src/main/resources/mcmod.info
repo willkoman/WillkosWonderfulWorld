@@ -1,0 +1,16 @@
+[
+{
+  "modid": "willkostuff",
+  "name": "Willko's Wonderful World",
+  "description": "A general overhaul mod to make the game more fun in many ways",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Willko"],
+  "credits": "Willko, and of course the Forge and FML team",
+  "logoFile": "www.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

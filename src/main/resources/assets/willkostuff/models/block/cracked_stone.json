@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "willkostuff:blocks/cracked_stone"
+    }
+}

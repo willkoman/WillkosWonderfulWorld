@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "willkostuff:blocks/redstone_generator_side",
+    "down": "willkostuff:blocks/redstone_generator_side",
+    "up": "willkostuff:blocks/redstone_generator_side",
+    "east": "willkostuff:blocks/redstone_generator_side",
+    "west": "willkostuff:blocks/redstone_generator_side",
+    "north": "willkostuff:blocks/redstone_generator_front",
+    "south": "willkostuff:blocks/redstone_generator_side"
+  }
+}

@@ -1,0 +1,13 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "willkostuff:compressed_obsidian"
+        }
+    ],
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 9,
+    "data": 0
+  }
+}
